@@ -1,0 +1,16 @@
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\bin\Debug\net5.0\CreatingAndStartingTask.exe
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\bin\Debug\net5.0\CreatingAndStartingTask.deps.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\bin\Debug\net5.0\CreatingAndStartingTask.runtimeconfig.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\bin\Debug\net5.0\CreatingAndStartingTask.runtimeconfig.dev.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\bin\Debug\net5.0\CreatingAndStartingTask.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\bin\Debug\net5.0\ref\CreatingAndStartingTask.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\bin\Debug\net5.0\CreatingAndStartingTask.pdb
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.csproj.AssemblyReference.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.AssemblyInfoInputs.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.AssemblyInfo.cs
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.csproj.CoreCompileInputs.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\ref\CreatingAndStartingTask.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.pdb
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask\obj\Debug\net5.0\CreatingAndStartingTask.genruntimeconfig.cache

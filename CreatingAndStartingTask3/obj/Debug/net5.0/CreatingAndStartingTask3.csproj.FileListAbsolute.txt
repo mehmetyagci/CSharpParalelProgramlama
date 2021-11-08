@@ -1,0 +1,15 @@
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\bin\Debug\net5.0\CreatingAndStartingTask3.exe
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\bin\Debug\net5.0\CreatingAndStartingTask3.deps.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\bin\Debug\net5.0\CreatingAndStartingTask3.runtimeconfig.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\bin\Debug\net5.0\CreatingAndStartingTask3.runtimeconfig.dev.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\bin\Debug\net5.0\CreatingAndStartingTask3.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\bin\Debug\net5.0\ref\CreatingAndStartingTask3.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\bin\Debug\net5.0\CreatingAndStartingTask3.pdb
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\CreatingAndStartingTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\CreatingAndStartingTask3.AssemblyInfoInputs.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\CreatingAndStartingTask3.AssemblyInfo.cs
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\CreatingAndStartingTask3.csproj.CoreCompileInputs.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\CreatingAndStartingTask3.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\ref\CreatingAndStartingTask3.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\CreatingAndStartingTask3.pdb
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CreatingAndStartingTask3\obj\Debug\net5.0\CreatingAndStartingTask3.genruntimeconfig.cache

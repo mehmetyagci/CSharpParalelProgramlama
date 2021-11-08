@@ -1,0 +1,16 @@
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\bin\Debug\net5.0\CSharpParalelProgramlama.exe
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\bin\Debug\net5.0\CSharpParalelProgramlama.deps.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\bin\Debug\net5.0\CSharpParalelProgramlama.runtimeconfig.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\bin\Debug\net5.0\CSharpParalelProgramlama.runtimeconfig.dev.json
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\bin\Debug\net5.0\CSharpParalelProgramlama.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\bin\Debug\net5.0\ref\CSharpParalelProgramlama.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\bin\Debug\net5.0\CSharpParalelProgramlama.pdb
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.csproj.AssemblyReference.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.AssemblyInfoInputs.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.AssemblyInfo.cs
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\ref\CSharpParalelProgramlama.dll
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.pdb
+C:\Users\MehmetYagci\source\repos\CSharpParalelProgramlama\CSharpParalelProgramlama\CSharpParalelProgramlama\obj\Debug\net5.0\CSharpParalelProgramlama.genruntimeconfig.cache
